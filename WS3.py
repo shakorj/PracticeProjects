@@ -3,4 +3,5 @@ list2 = []
 for x in list:
     if x >= 5:
         list2.append(x)
+def remove(duplicate)
 print(list2)
