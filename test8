@@ -1,0 +1,3 @@
+play = True
+user1 = input("Rock-Paper-Scissors?: ")
+user2 = input("Rock-Paper-Scissors?: ")

@@ -1,3 +1,4 @@
+#Creating Palindrome - using modulo operator, len function and list indexing
 a = input("Give me a word: ")
 mid = int(len(a)/2)
 if mid % 2 is 0:
