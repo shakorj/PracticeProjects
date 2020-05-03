@@ -1,3 +1,0 @@
-import strings
-import random
-a = string.ascii_letter()
